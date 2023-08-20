@@ -2,4 +2,7 @@
 
 ## Welcome
 
-** GitHub Learning
+* GitHub Learning
+* Create Project
+* Upload files
+* Solve merge conflicts
